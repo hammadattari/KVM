@@ -1,1 +1,1 @@
-# KVM
+# KVM (Kernel-based Virtual Machine)
